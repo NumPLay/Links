@@ -64,7 +64,7 @@ We take appropriate security measures to protect the data we collect and store. 
 
 ## 5. Third-Party Services
 
-[Your App Name] may include third-party services (such as analytics or advertisements) that may collect non-personal information about your device and app usage. We recommend reviewing the privacy policies of these third-party services.
+Tap And Math may include third-party services (such as analytics or advertisements) that may collect non-personal information about your device and app usage. We recommend reviewing the privacy policies of these third-party services.
 
 ## 6. Changes to this Privacy Policy
 
